@@ -58,4 +58,4 @@ sudo rm -rf /nix/store/*darwin-rebuild-stale-tmp*.tmp
 
 ## Related Issue
 
-TBD
+https://github.com/NixOS/nix/issues/15709
